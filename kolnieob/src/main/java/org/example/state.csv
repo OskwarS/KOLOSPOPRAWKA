@@ -1,0 +1,4 @@
+board,result
+XOX,O O,X O,ongoing
+XXX,OO ,   ,X won
+XOX,OXX,X O,draw
